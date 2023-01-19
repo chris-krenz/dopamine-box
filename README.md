@@ -26,10 +26,10 @@ Side project: Arduino device to track daily tasks
 
 # Credits
  - Mike Boyd: https://www.youtube.com/watch?v=JJeQIXBdVuk
-  - Concept/Inspiration
+   - Concept/Inspiration
  - Chris Krenz
-  - Design
-  - 3D model design and printing
-  - Wiring and soldering
-  - Programming (C++/Arduino)
-  - Testing
+   - Design
+   - 3D model design and printing
+   - Wiring and soldering
+   - Programming (C++/Arduino)
+   - Testing and debugging
