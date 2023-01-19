@@ -28,7 +28,7 @@ Side project: Arduino device to track daily tasks
  - See the diagram for a layout of the circuit
 
 
-# Credits
+## Credits
  - Mike Boyd: https://www.youtube.com/watch?v=JJeQIXBdVuk
    - Concept/Inspiration
  - Chris Krenz
