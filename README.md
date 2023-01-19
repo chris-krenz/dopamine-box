@@ -25,7 +25,7 @@ Side project: Arduino device to track completion daily tasks (integrates Arduino
 
 
 ## Other Notes
- - See the diagram for a layout of the circuit
+ - See the diagram and photos in docs for a layout/visualization of the circuits
 
 
 ## Credits
