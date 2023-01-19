@@ -1,5 +1,5 @@
 # dopamine-box
-Side project: Arduino device to track daily tasks
+Side project: Arduino device to track daily tasks (integrates Arduino, electronics, a servo, 3D printing, and C++ programming)
 
 
 ## Description
